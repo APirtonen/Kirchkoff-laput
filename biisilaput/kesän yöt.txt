@@ -1,0 +1,34 @@
+Intro
+|Em	|Cmaj7	|Am	|B7	|
+
+Verse
+|Em	|Am	|D7	|Gmaj7	|
+|Cmaj7	|Am	|F#7/A# C7 |B7	|
+
+|Em	|Am	|D7	|Gmaj7	|
+|Cmaj7	|Am	|F#7/A#  B7|Em	|
+
+Bridge
+|Am	|Em	|Am  D7	|Gmaj7 G#dim|
+|Am  B7	|C	|B7	|Em	|
+
+Verse
+|Em	|Am	|D7	|Gmaj7	|
+|Cmaj7	|Am	|F#7/A#  B7|Em	|
+
+Solo
+|Em	|Am	|D7	|Gmaj7	|
+|Cmaj7	|Am	|F#7/A#  B7|Em	|
+
+Bridge
+|Am	|Em	|Am  D7	|Gmaj7 G#dim|
+|Am  B7	|C	|B7	|Em	|
+
+Verse
+|Em	|Am	|D7	|Gmaj7	|
+|Cmaj7	|Am	|F#7/A#  B7|Em	A   |
+
+Outro
+|Em	|Am	|D7	|Gmaj7	|
+|Cmaj7	|Am	|F#7/A#  B7|Em	A   |
+|Em	A   |Em6(/9)

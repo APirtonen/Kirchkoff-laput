@@ -1,0 +1,62 @@
+Pre intro bs
+|"Ab"	|"Ab"	|"F"	|"F"	|
+|"Ab"	|"Ab"	|
+
+|"Eb"	|	|	|	|
+|	|	|	|	|
+
+Intro
+|Em	|D	|Em	|D	|	
+|Em	|D	|Em	|D	|
+
+Verse
+|Em	|D	|Em	|D	|
+|C	|D	|Em	|D	|
+
+|Em	|D	|Em	|D	|
+|C	|D	|Em	|D	|
+
+Chorus
+|Em	|D	|Em	|D	|
+|Em	|D	|Em	|D	|
+|Em	|D	|Em	|D	|
+
+Verse
+|Em	|D	|Em	|D	|
+|C	|D	|Em	|D	|
+
+|Em	|D	|Em	|D	|
+|C	|D	|Em	|D	|
+
+Chorus
+|Em	|D	|Em	|D	|
+|Em	|D	|Em	|D	|
+
+|Em	|D	|Em	|D	|
+|Em	|D	|Em	|D	|
+
+Väli
+|Em	|Em	|Em	|Em    D	|
+|Em	|Em	|Em	|Em    D	|
+
+|Em	|Em	|Em	|Em    D	|
+|Em	|Em	|Em	|Em    D	|
+
+Solo
+|Em	|D	|Em	|D	|
+|C	|D	|Em	|D	|
+
+|Em	|D	|Em	|D	|
+|C	|D	|Em	|D	|
+
+Chorus
+|Em	|D	|Em	|D	|
+|Em	|D	|Em	|D	|
+
+|Em	|D	|Em	|D	|
+|Em	|D	|Em	|D	|
+
+Fadeout
+|Em	|D	|Em	|D	|
+|Em	|D	|Em	|D	|
+...

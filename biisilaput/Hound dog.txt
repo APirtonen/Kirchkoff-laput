@@ -1,0 +1,39 @@
+Blues 1
+|C7	|C7	|C7	|C7	|
+|F7	|F7	|C7	|C7	|
+|G7	|F7	|C7	|	|
+
+Blues 2
+|C7	|C7	|C7	|C7	|
+|F7	|F7	|C7	|C7	|
+|G7	|F7	|C7	|	|
+
+Blues 3
+|C7	|C7	|C7	|C7	|
+|F7	|F7	|C7	|C7	|
+|G7	|F7	|C7	|	|
+
+Blues 4 / solo
+|C7	|C7	|C7	|C7	|
+|F7	|F7	|C7	|C7	|
+|G7	|F7	|C7	|	|
+
+Blues 5
+|C7	|C7	|C7	|C7	|
+|F7	|F7	|C7	|C7	|
+|G7	|F7	|C7	|	|
+
+Blues 6 / lisää soloa
+|C7	|C7	|C7	|C7	|
+|F7	|F7	|C7	|C7	|
+|G7	|F7	|C7	|	|
+
+Blues 7
+|C7	|C7	|C7	|C7	|
+|F7	|F7	|C7	|C7	|
+|G7	|F7	|C7	|	|
+
+Blues 8
+|C7	|C7	|C7	|C7	|
+|F7	|F7	|C7	|C7	|
+|G7	|NC	|	|C7(#9)	|
