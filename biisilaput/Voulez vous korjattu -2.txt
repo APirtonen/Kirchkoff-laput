@@ -48,22 +48,7 @@ Pre
 |A	|A	|Dm	|A	|
 |A	|A	|Dm	|Dm  Bb	|
 
-Chorus
-|Gm	|Gm	|Gm	|Gm	|
-|Dm	|Dm  Bb	|
-
-|Gm	|Gm	|Gm	|Gm	|
-|Dm	|Dm  Bb	|
-
-|G	|G	|
-
-Interlude
-|A	|	|	|	|
-|A	|	|	|	|
-
-|Dm	|Dm  Bb	|
-
-Chorus Outro Fadeout
+Chorus AHA
 |Gm	|Gm	|Gm	|Gm	|
 |Dm	|Dm  Bb	|
 
@@ -75,3 +60,15 @@ Chorus Outro Fadeout
 
 |Gm	|Gm	|Gm	|Gm	|
 |Dm	|Dm  Bb	|
+
+Chorus Fadeout
+|Gm	|Gm	|Gm	|Gm	|
+|Dm	|Dm  Bb	|
+
+|Gm	|Gm	|Gm	|Gm	|
+|Dm	|Dm  Bb	|
+
+|Gm	|Gm	|Gm	|Gm	|
+|Dm	|Dm  Bb	|
+
+|Gm	|...
