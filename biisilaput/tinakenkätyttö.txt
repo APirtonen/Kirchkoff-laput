@@ -1,0 +1,72 @@
+In Cm
+
+Intro
+|Cm	|Ab	|Bb	|Gm	|
+|Cm	|Ab	|Eb	|Bb	|
+
+Band in
+|Cm	|Ab	|Bb	|Gm	|
+|Cm	|Ab	|Eb/Bb	|Bb	|
+
+Verse
+|Cm	|Ab	|Eb/G	|Fm	|
+|Ab	|Bb	|Bb	|
+
+|Cm	|Ab	|Bb	|Eb	|
+|Ab	|Bb	|Bb	|
+
+Pre
+|Eb	|Bb	|Cm	|Ab	|
+|Eb	|Bb	|Ab	|Bb	|
+
+|Eb	|Bb	|Cm	|Ab	|
+|Eb	|Bb	|Ab	|Bb	|
+
+Chorus
+|Cm	|Ab	|Bb	|Gm	|
+|Cm	|Ab	|Eb/Bb	|Bb	|
+
+|Cm	|Ab	|Bb	|Gm	|
+|Cm	|Ab	|Eb/Bb	|Bb	|
+
+Verse
+|Cm	|Ab	|Eb/G	|Fm	|
+|Ab	|Bb	|Bb	|
+
+|Cm	|Ab	|Bb	|Eb	|
+|Ab	|Bb	|Bb	|
+
+Pre
+|Eb	|Bb	|Cm	|Ab	|
+|Eb	|Bb	|Ab	|Bb	|
+
+|Eb	|Bb	|Cm	|Ab	|
+|Eb	|Bb	|Ab	|Bb	|
+
+Chorus
+|Cm	|Ab	|Bb	|Gm	|
+|Cm	|Ab	|Eb/Bb	|Bb	|
+
+|Cm	|Ab	|Bb	|Gm	|
+|Cm	|Ab	|Eb/Bb 	|Bb	|
+
+Interlude
+|Eb	|Eb	|Ab	|Bb/D	|
+|Cm	|Fm	|Ab	|Bb	|
+
+|Cm	|Ab	|Bb	|Eb	|
+|Fm	|Ab	|Bb	|Bb	|
+
+Chorus mod
+|C#m	|A	|H	|G#m	|
+|C#m	|A	|E	|H	|
+
+|C#m	|A	|H	|G#m	|
+|C#m	|A	|E/H	|H	|
+
+Outro fadeout
+|C#m	|A	|H	|G#m	|
+|C#m	|A	|E/H	|H	|
+
+|C#m	|A	|H	|G#m	|
+|C#m	|A	|E/H	|H	|
